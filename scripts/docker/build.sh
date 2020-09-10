@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -f ./Dockerfile.pytorch --rm -t tacotron2
+docker build -f ./Dockerfile.pytorch --rm -t tacotron2 .
